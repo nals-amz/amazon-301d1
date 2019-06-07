@@ -1,0 +1,20 @@
+main{
+  padding-top: 50px;
+}
+main div{
+  width: 20%;
+  min-height: 300px;
+  height: auto;
+  float: left;
+  border: 2px solid;
+  border-radius: 5px;
+  margin: 2px;
+  
+}
+main div img {
+  width: 80%;
+  height: 250px%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
