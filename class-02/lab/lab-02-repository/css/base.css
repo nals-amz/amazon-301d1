@@ -1,0 +1,14 @@
+body{
+  margin-left: 5%;
+  margin-right: 5%;
+}
+main {
+  width: auto;
+  height: auto;
+}
+
+footer{
+  display: block;
+  clear: both;
+  margin-top: 20px;
+}
